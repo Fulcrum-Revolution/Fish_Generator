@@ -1,6 +1,6 @@
 # Fish_Generator
 
-# Fish Generator :crystal_ball:
+# Fish Generator :fish:
 
 Fish Generator is a small program that creates uniq fish images based on pre-set attributes.
 Inspired and popularized by CryptoPunks, Shroomtopia, and other NFT projects.
